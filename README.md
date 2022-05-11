@@ -8,3 +8,4 @@
   - **Se nao** 
   - Mostrar "Nao pode solicitar a CNH"
 - **FIM**
+- ![Isso é uma imagem](https://github.com/Lopes-Vitor/algoritmo_programacao_cnh/blob/main/DiagramaCNH.png)
